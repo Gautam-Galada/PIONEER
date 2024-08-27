@@ -1,6 +1,6 @@
 # Adaptive Gait Rehabilitation using Hybrid RL Algorithms
 
-This repository builds upon the research presented in the paper: [**Optimizing Policy Gradient Methods for Adaptive Gait Rehabilitation**](https://www.researchgate.net/publication/383177984_Optimizing_Policy_Gradient_Methods_for_Adaptive_Gait_Rehabilitation?channel=doi&linkId=66bfcb52145f4d35535fe3fa&showFulltext=true).
+This repository builds upon the research presented in the paper: [**Optimizing Policy Gradient Methods for Adaptive Gait Rehabilitation**](https://www.researchgate.net/publication/383177984_Optimizing_Policy_Gradient_Methods_for_Adaptive_Gait_Rehabilitation?channel=doi&linkId=66bfcb52145f4d35535fe3fa&showFulltext=true). (Preprint)
 
 ## Introduction
 
