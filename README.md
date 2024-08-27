@@ -1,5 +1,7 @@
 # Adaptive Gait Rehabilitation using Hybrid RL Algorithms
 
+This repository builds upon the research presented in the paper: [**Optimizing Policy Gradient Methods for Adaptive Gait Rehabilitation**](https://www.researchgate.net/publication/383177984_Optimizing_Policy_Gradient_Methods_for_Adaptive_Gait_Rehabilitation?channel=doi&linkId=66bfcb52145f4d35535fe3fa&showFulltext=true).
+
 ## Introduction
 
 Adaptive gait rehabilitation is a critical field in medical research, aiming to improve mobility and quality of life for individuals with lower-limb disabilities. Traditionally, exoskeletons and other assistive devices have been used to support gait rehabilitation, but they require manual adjustments and lack adaptability. Reinforcement Learning (RL) has emerged as a promising approach to develop intelligent control systems for gait rehabilitation, allowing for real-time adjustments based on feedback from the environment.
