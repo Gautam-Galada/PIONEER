@@ -1,6 +1,8 @@
 # Adaptive Gait Rehabilitation using Hybrid RL Algorithms
 
-![pioneer](https://github.com/user-attachments/assets/70e7d3fb-154e-4238-9124-477f75084f8e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70e7d3fb-154e-4238-9124-477f75084f8e" alt="Pioneer" />
+</p>
 
 
 This repository builds upon the research presented in the paper: [**Optimizing Policy Gradient Methods for Adaptive Gait Rehabilitation**](https://www.researchgate.net/publication/383177984_Optimizing_Policy_Gradient_Methods_for_Adaptive_Gait_Rehabilitation?channel=doi&linkId=66bfcb52145f4d35535fe3fa&showFulltext=true). (Preprint)
